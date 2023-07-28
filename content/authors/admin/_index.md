@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: NEUK SynBio
 
 # Full Name (for SEO)
 first_name: Nelson
